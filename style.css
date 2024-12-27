@@ -1,0 +1,19 @@
+.center{
+    display: flex;
+    justify-content: center;
+    font-size: x-large;
+    text-transform: capitalize;
+    background-color: blue;
+    color: white;
+}
+.a{
+    text-transform: lowercase;
+    background-color: yellow;
+    color: black;
+}
+
+.b{
+    text-transform: lowercase;
+    background-color: red;
+    color: white;
+}
